@@ -8,6 +8,12 @@ Contour 기반 결함 시각화 및 정량 분석 기능을 포함합니다.
 
 ---
 
+## 👨‍💻 담당 역할
+- C# WinForms 기반 검사 UI 및 로직 전체 구현
+- OpenCV(OpenCvSharp)를 활용한 영상 처리 알고리즘 개발
+
+---
+
 ## 🔧 사용 기술
 - C#
 - WinForms (Windows Forms)
